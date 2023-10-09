@@ -1,6 +1,7 @@
 .main-container {margin: 0 auto;
     width: 90%;
     max-width: 75ch;
+    height: 100vh; 
   }
   
   .divhead {
@@ -77,6 +78,10 @@
     text-align: justify;
     line-height: 1.5;
   }
+  
+figure{margin: 0 auto;
+  width: 90%;
+  max-width: 70ch;}
   
   figcaption{
     font-family: "montserrat", sans-serif;
