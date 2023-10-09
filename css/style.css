@@ -78,7 +78,12 @@
     text-align: left;
     line-height: 1.5;
   }
-  
+
+img{display: flex;
+  max-width: 100%;
+  height: auto;
+}
+
 figure{margin: 0 auto;
   width: 90%;
   max-width: 70ch;}
