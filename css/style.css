@@ -91,9 +91,10 @@ figure{margin: 0 auto;
   figcaption{
     font-family: "montserrat", sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 11px;
     color: black;
     line-height:1.3;
+    
   }
   
   a{
