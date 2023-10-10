@@ -20,7 +20,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	flex-wrap: wrap;
+	flex-wrap: wrap; 
 }
 
 .main-nav ul {
@@ -29,7 +29,9 @@ img {
 }
 .main-nav li {
 	display: inline;
+  font-size: .85rem;
 }
+
 .main-nav a {
 	display: inline-block;
 	padding: .5em 1.5em;
