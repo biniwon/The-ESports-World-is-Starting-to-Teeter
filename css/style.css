@@ -1,7 +1,8 @@
 .main-container {margin: 0 auto;
     width: 90%;
     max-width: 75ch;
-    height: 100vh; 
+    height: 100vh;
+    padding: 6px 24px 48px 24px; 
   }
   
 img {
